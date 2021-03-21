@@ -1,4 +1,13 @@
-﻿.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
+﻿@media (min-device-width : 320px) and (max-device-width : 480px) {
+/* Smartphone  */
+}
+
+@media (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Tablet */
+}
+
+
+.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
 	          color:navy; font-weight:bold; position:relative; margin-top:50px; margin-left:10px; font-size:16pt;
 	        }
 
