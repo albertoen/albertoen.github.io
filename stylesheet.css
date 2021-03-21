@@ -1,22 +1,4 @@
-﻿.page		{ max-width: 960px;
-
-		}
-
-.main		{ width: 62.5%;
-
-		}
-
-
-.input 		{ border-style:none; margin-left:115px; margin-top:2px; background-color:transparent; 
-                  font-family:Arimo,Arial,Helvetica,sans-serif;
-	          font-size:11pt;
-	          color:navy; font-weight:bold; margin-left:5px;
-                }
-
-
-.ore   		{ position:absolute; font-family:"arimo", arial; color:navy; font-weight:bold; font-size:11pt; margin-left:0px; margin-top:3px;
-
-		}
+﻿body 		{ background="immagini\intonaco.jpg"; background-repeat: no-repeat; }
 
 
 .titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
