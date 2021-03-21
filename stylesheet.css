@@ -1,15 +1,15 @@
 ﻿.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
-	          color:navy; font-weight:bold; position:absolute; margin-top:130px; margin-left:0px; font-size:16pt;
+	          color:navy; font-weight:bold; position:relative; margin-top:50px; margin-left:10px; font-size:16pt;
 	        }
 
 .titoletto      { font-family:Arimo,Arial,Helvetica,sans-serif;
-	          color:navy; font-weight:bold; position:absolute; margin-top:170px; margin-left:0px; font-size:12pt;
+	          color:navy; font-weight:bold; position:relative; margin-top:20px; margin-left:10px; font-size:12pt;
 	        }
 
 
-p               { font-family:"arimo", arial; color:black; font-size:12px; position:absolute; width:600px; text-align:justify;
-	          margin-top:200px; margin-left:0px; line-height:150%;}
+p               { font-family:"arimo", arial; color:black; font-size:12px; position:relative; width:600px; text-align:justify;
+	          margin-top:20px; margin-left:10px; line-height:150%;}
 
 
-.copyright      { font-family:"arimo", arial; color:navy; font-size:11px; position:absolute; width:600px; text-align:center;
-	          margin-top:550px; margin-left:0px; line-height:150%;}
+.copyright      { font-family:"arimo", arial; color:navy; font-size:11px; position:relative; width:600px; text-align:center;
+	          margin-top:230px; margin-left:0px; line-height:150%;}

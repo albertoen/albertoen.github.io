@@ -6,12 +6,24 @@
 		<title>Retrocomputers</title>
 		<link rel="stylesheet" href="stylesheet.css" />
 
+		<style type="text/css">
+		body { height: 100%; width:100%; margin: 0; padding: 0;}
+		#sfondo {position:fixed; top:0; left:0; width:100%; height:100%; z-index:-1;}
+		</style>
+
+		<!--[if IE ]>
+		<style type="text/css">
+		/* css per MIE browsers */
+		html {overflow-y:hidden;}
+		body {overflow-y:auto;}
+		#sfondo {position:absolute; z-index:-1;}
+		</style>
+		<![endif]-->
+
 	</head>
-	
-	<body background="immagini\intonaco.jpg" >
-	
-		<header>
 			
+	<body background="immagini/intonaco.jpg" id="sfondo">
+		<header>		
        		 	<h5 class="titolo">HOMEPAGE RETROCOMPUTERS</h5>
 			<h6 class="titoletto">Contenuto del sito</h6>
 				
@@ -35,7 +47,6 @@
 			</h5>
 
 		</footer>
-
-	</body>
+		</body>
 		
 </html>
