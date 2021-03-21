@@ -1,7 +1,7 @@
 ﻿		@media screen and (max-width: 760px) {
 		.titolo, .titoletto, p, .copyright {
 		float: none;
-		display: block;
+		display: absolute;
 		width:100%
 }
 
