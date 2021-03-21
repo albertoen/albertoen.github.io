@@ -1,0 +1,36 @@
+﻿.page		{ max-width: 960px;
+
+		}
+
+.main		{ width: 62.5%;
+
+		}
+
+
+.input 		{ border-style:none; margin-left:115px; margin-top:2px; background-color:transparent; 
+                  font-family:Arimo,Arial,Helvetica,sans-serif;
+	          font-size:11pt;
+	          color:navy; font-weight:bold; margin-left:5px;
+                }
+
+
+.ore   		{ position:absolute; font-family:"arimo", arial; color:navy; font-weight:bold; font-size:11pt; margin-left:0px; margin-top:3px;
+
+		}
+
+
+.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
+	          color:navy; font-weight:bold; position:absolute; margin-top:130px; margin-left:0px; font-size:16pt;
+	        }
+
+.titoletto      { font-family:Arimo,Arial,Helvetica,sans-serif;
+	          color:navy; font-weight:bold; position:absolute; margin-top:170px; margin-left:0px; font-size:12pt;
+	        }
+
+
+p               { font-family:"arimo", arial; color:black; font-size:12px; position:absolute; width:600px; text-align:justify;
+	          margin-top:200px; margin-left:0px; line-height:150%;}
+
+
+.copyright      { font-family:"arimo", arial; color:navy; font-size:11px; position:absolute; width:600px; text-align:center;
+	          margin-top:550px; margin-left:0px; line-height:150%;}
