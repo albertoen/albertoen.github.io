@@ -1,10 +1,13 @@
-﻿@media (min-device-width : 320px) and (max-device-width : 480px) {
-/* Smartphone  */
+﻿		@media screen and (max-width: 760px) {
+		.titolo, .titoletto, p {
+		float: none;
+		display: block;
+		width:100%
 }
 
-@media (min-device-width : 768px) and (max-device-width : 1024px) {
-/* Tablet */
 }
+
+
 
 
 .titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
