@@ -5,6 +5,61 @@
 		<meta charset="utf-8" />
 		<title>Retrocomputers</title>
 		<link rel="stylesheet" href="stylesheet.css" />
+
+		<script type="text/javascript" src="assets/js/respond.min.js"></script>
+		<script type="text/javascript" src="assets/js/modernizr-2.0.6.min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+		<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="assets/js/selectivizr-min.js"></script>
+		<![endif]-->
+		<!-- Flexlider -->
+		<script type="text/javascript" src="assets/js/jquery.flexslider-min.js"></script>
+
+		<!-- Flexlider -->
+		<script type="text/javascript">
+		  $(window).load(function() {
+  		  $('.flexslider').flexslider({
+    		animation: 'fade',
+    		slideshow: true,
+    		controlNav: true,
+    		directionNav: false
+  		});
+		});
+		</script>
+		<script type="text/javascript">
+		var caricaFlexslider = function() {
+		  $(".flexslider").load("flexslider.html");
+		};
+		</script>
+		<!-- Fine Flexlider -->
+		<!-- Formattazione menu per il mobile -->
+		<script type="text/javascript">
+		$(function() {
+		 [...]
+		});
+		</script>
+		<!-- Fine formattazione menu per il mobile -->
+
+		<!-- Carica lo slideshow se la finestra è larga più di 768px -->
+		<script type="text/javascript">
+		 if (document.documentElement.clientWidth >= 768) {
+		   caricaFlexslider();
+		 }
+		</script>
+		<!-- Fine caricamento slideshow -->
+		<!-- Inizializza lo script FitVids -->
+		<script src="assets/js/jquery.fitvids.js"></script>
+		<script>
+		  $("article.post").fitVids();
+		</script>
+		<!-- Fine FitVids -->
+		<!-- Script per la gelocalizzazione -->
+		<script type="text/javascript">
+		  var output = document.getElementById('luoghi');
+		  [...]
+		  }
+		</script>
+		<!-- Fine script per la geolocalizzazione -->
         
 	</head>
 	

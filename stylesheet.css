@@ -1,7 +1,4 @@
-﻿body 		{ background="immagini\intonaco.jpg"; background-repeat: no-repeat; }
-
-
-.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
+﻿.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
 	          color:navy; font-weight:bold; position:absolute; margin-top:130px; margin-left:0px; font-size:16pt;
 	        }
 
