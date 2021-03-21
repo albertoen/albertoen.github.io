@@ -1,25 +1,12 @@
 ﻿/* foglio stili css per visualizzazione  adattiva su dispositivi mobile marzo 2021 */
 
-		@media screen and (max-width: 960px) {
+@media screen and (max-width: 960px) {
 		.titolo, .titoletto, p, .copyright {
 		float: none;
 		display: inline;
-		width:80%
+		width:92%
 		}
 
 	}
 
-
-#sfondo 	{
-  		width: 120%;
- 	 	height: 110%;
-  		top: 0;
-  		left: 0;
-  		background: url(immagini/intonaco.jpg) no-repeat center top;
-  		position: absolute;
-  		z-index: -1;
-  		-webkit-background-size: cover;
-  		-moz-background-size: cover;
-  		-o-background-size: cover;
-  		background-size: cover;
-		}
+		
