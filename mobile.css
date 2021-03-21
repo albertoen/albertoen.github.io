@@ -4,15 +4,15 @@
 		.titolo, .titoletto, p, .copyright {
 		float: none;
 		display: inline;
-		width:96%
+		width:80%
 		}
 
 	}
 
 
 #sfondo 	{
-  		width: 100%;
- 	 	height: 120%;
+  		width: 120%;
+ 	 	height: 110%;
   		top: 0;
   		left: 0;
   		background: url(immagini/intonaco.jpg) no-repeat center top;
