@@ -1,0 +1,52 @@
+﻿/* foglio stili css per pagina index.html marzo 2021 */
+
+
+.body 		{background-attachment:fixed; }
+
+
+.titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
+	          color:navy; font-weight:bold; position:absolute; margin-top:30px; margin-left:50px; font-size:16pt;
+	        }
+
+.titoletto      { font-family:Arimo,Arial,Helvetica,sans-serif;
+	          color:navy; font-weight:bold; position:absolute; margin-top:70px; margin-left:50px; font-size:12pt;
+	        }
+
+
+p               { font-family:"arimo", arial; color:black; font-size:12px; position:absolute; width:600px; text-align:justify;
+	          margin-top:240px; margin-left:50px; line-height:150%;}
+
+.sottomenu	{ font-family:"arimo", arial; color:black; font-size:12px; position:absolute; width:600px; text-align:justify;
+	          margin-top:240px; margin-left:715px; line-height:150%;}
+
+
+.amiga1000	{ 
+		position:absolute; margin-left:10px; margin-top:100px; width: 50%; opacity:0.3;
+
+		}
+
+.commlogo	{
+		position:absolute; margin-left:720px; margin-top:400px; width: 8%;
+
+		}
+
+
+.menu		{
+		position:absolute; margin-left: 650px; margin-top:120px;
+		font-family:Arimo,Arial,Helvetica,sans-serif; color:navy; font-size:9.5pt; line-height:150%; width:600px;
+
+		}
+
+.titolomenu	{
+		position:absolute; font-size: 10pt; margin-left: 25px; margin-top:-20px;
+
+		} 
+
+.footer		{ font-family:"arimo", arial; color:navy; font-size:11.5px; position:absolute; width:600px; text-align:center;
+	          margin-top:780px; margin-left:0px; line-height:150%;}
+
+
+.works		{
+		position:absolute; margin-left: 450px; margin-top: 200px;
+
+		}
