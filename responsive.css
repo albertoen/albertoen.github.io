@@ -1,7 +1,7 @@
 ﻿/* foglio stili css per visualizzazione  adattiva su dispositivi mobile marzo 2021 */
 
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 600px) {
 		.titolo, .titoletto, p, .menu {
 		float: none;
 		display: inline;
@@ -11,7 +11,7 @@
 	}
 
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 600px) {
 		.amiga1000, .footer {
 		float: none;
 		display: inline;
@@ -20,7 +20,7 @@
 
 	}
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 600px) {
 		.sottomenu {
 		float: none;
 		display: inline;
@@ -32,7 +32,7 @@
 	}
 
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 600px) {
 		.titolomenu {
 		float: none;
 		display: inline;
