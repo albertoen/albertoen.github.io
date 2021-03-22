@@ -1,9 +1,6 @@
 ﻿/* foglio stili css per pagina index.html marzo 2021 */
 
 
-.body 		{background-attachment:fixed; }
-
-
 .titolo         { font-family:Arimo,Arial,Helvetica,sans-serif;
 	          color:navy; font-weight:bold; position:absolute; margin-top:30px; margin-left:50px; font-size:16pt;
 	        }
