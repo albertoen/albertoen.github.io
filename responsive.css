@@ -1,7 +1,7 @@
 ﻿/* foglio stili css per visualizzazione  adattiva su dispositivi mobile marzo 2021 */
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 320px) {
 		.titolo, .titoletto, p, .menu {
 		float: none;
 		display: inline;
@@ -9,6 +9,35 @@
 		}
 
 	}
+
+@media screen and ( min-width: 321px) and( max-width: 481px) {
+		.titolo, .titoletto, p, .menu {
+		float: none;
+		display: inline;
+		width:80%
+		}
+
+	}
+
+@media screen and ( min-width: 481px) and( max-width: 769px) {
+		.titolo, .titoletto, p, .menu {
+		float: none;
+		display: inline;
+		width:80%
+		}
+
+	}
+
+@media screen and ( min-width: 769px) and( max-width: 1024px) {
+		.titolo, .titoletto, p, .menu {
+		float: none;
+		display: inline;
+		width:80%
+		}
+
+	}
+
+/* risoluzioni per amiga1000 e footer */
 
 
 @media screen and (max-width: 600px) {
