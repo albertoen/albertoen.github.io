@@ -31,15 +31,6 @@
 	}
 
 
-@media screen and (min-width: 80px) and (max-width: 1366px) {
-		.menu {
-		float: none;
-		display: inline;
-		width:20%
-		}
-
-	}
-
 
 @media screen and (min-width: 80px) and (max-width: 1366px) {
 		.amiga1000 {
