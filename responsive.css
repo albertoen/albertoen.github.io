@@ -42,7 +42,7 @@
 
 
 @media screen and (min-width: 100px) and (max-width: 1366px) {
-		.amiga1000, .footer {
+		.amiga1000 {
 		float: none;
 		display: inline;
 		width:95%
