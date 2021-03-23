@@ -1,7 +1,7 @@
 ﻿/* foglio stili css per visualizzazione  adattiva su dispositivi mobile marzo 2021 */
 
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.titolo {
 		float: none;
 		display: inline;
@@ -11,7 +11,7 @@
 	}
 
 		
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.titoletto {
 		float: none;
 		display: inline;
@@ -21,7 +21,7 @@
 	}
 
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		p {
 		float: none;
 		display: inline;
@@ -31,7 +31,7 @@
 	}
 
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.menu {
 		float: none;
 		display: inline;
@@ -41,7 +41,7 @@
 	}
 
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.amiga1000, .footer {
 		float: none;
 		display: inline;
@@ -51,7 +51,7 @@
 	}
 
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.footer {
 		float: none;
 		display: inline;
@@ -60,7 +60,7 @@
 
 	}
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.sottomenu {
 		float: none;
 		display: inline;
@@ -72,7 +72,7 @@
 	}
 
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.titolomenu {
 		float: none;
 		display: inline;
@@ -84,7 +84,7 @@
 	}
 
 
-@media screen and (max-width: 960px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.menu {
 		float: none;
 		display: inline;
@@ -96,7 +96,7 @@
 	}
 
 
-@media screen and (max-width: 960px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.commlogo {
 		float: none;
 		display: inline;
@@ -108,7 +108,7 @@
 	}
 
 
-@media screen and (max-width: 960px) {
+@media screen and (min-width: 300px) and (max-width: 1024px) {
 		.works {
 		float: none;
 		display: inline;
