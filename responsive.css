@@ -1,8 +1,8 @@
 ﻿/* foglio stili css per visualizzazione  adattiva su dispositivi mobile marzo 2021 */
 
 
-@media screen and (max-width: 320px) {
-		.titolo, .titoletto, p, .menu {
+@media screen and (max-width: 600px) {
+		.titolo {
 		float: none;
 		display: inline;
 		width:80%
@@ -10,8 +10,19 @@
 
 	}
 
-@media screen and ( min-width: 321px) and( max-width: 481px) {
-		.titolo, .titoletto, p, .menu {
+		
+@media screen and (max-width: 600px) {
+		.titoletto {
+		float: none;
+		display: inline;
+		width:50%
+		}
+
+	}
+
+
+@media screen and (max-width: 600px) {
+		p {
 		float: none;
 		display: inline;
 		width:80%
@@ -19,29 +30,29 @@
 
 	}
 
-@media screen and ( min-width: 481px) and( max-width: 769px) {
-		.titolo, .titoletto, p, .menu {
+
+@media screen and (max-width: 600px) {
+		.menu {
 		float: none;
 		display: inline;
-		width:80%
+		width:20%
 		}
 
 	}
-
-@media screen and ( min-width: 769px) and( max-width: 1024px) {
-		.titolo, .titoletto, p, .menu {
-		float: none;
-		display: inline;
-		width:80%
-		}
-
-	}
-
-/* risoluzioni per amiga1000 e footer */
 
 
 @media screen and (max-width: 600px) {
 		.amiga1000, .footer {
+		float: none;
+		display: inline;
+		width:95%
+		}
+
+	}
+
+
+@media screen and (max-width: 600px) {
+		.footer {
 		float: none;
 		display: inline;
 		width:95%
@@ -54,7 +65,7 @@
 		float: none;
 		display: inline;
 		margin-left: 500px;
-		width:60%
+		width:40%
 		}
 
 
